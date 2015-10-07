@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>ebe09459-62d0-476f-9a9d-1bca890769a2</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>GraphTheory.py</StartupFile>
+    <StartupFile>BFSImplementation.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
